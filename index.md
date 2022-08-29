@@ -19,27 +19,26 @@ Submissions are now invited for the workshop. If you wish to submit a 1–5-page
 
 Please include the following in your submission: 
 
-(A) Position papers:  
-*   Participants' profile 
-*   A description of a topic or challenge that can contribute to workshop discussions 
+- Position papers:  
+  - Participants' profile 
+  - A description of a topic or challenge that can contribute to workshop discussions 
 
-(B) Expression of Interest (EOI) papers: 
-*   Participants' profile  
-*   Participants' interest in HRC 
+- Expression of Interest (EOI) papers: 
+  - Participants' profile  
+  - Participants' interest in HRC
 
- 
 Authors should also provide their current city and affiliation (if applicable). 
 
 
 # Formatting Details 
 
-*   Submission format: Single column format in PDF, using the ACM Master Article Submission Templates (Word and LaTeX versions). 
+*   **Submission format:** Single column format in PDF, using the ACM Master Article Submission Templates (Word and LaTeX versions). 
 
-*   Page length: Position paper submissions should be maximum 5 pages (excluding references), EOI submissions should be maximum 1 page. 
+*   **Page length:** Position paper submissions should be maximum 5 pages (excluding references), EOI submissions should be maximum 1 page. 
 
-*   Anonymisation: Submissions should not be anonymised. 
+*   **Anonymisation:** Submissions should not be anonymised. 
 
-*   Submission method: Easy Chair System 
+*   **Submission method:** Easy Chair System 
 
  
 The position papers and EOIs must relate directly to the theme of the workshop to explore crucial future research directions for advancing human-robot collaboration and discuss emerging concepts and design decisions, incorporating your discipline-specific perspective.  
@@ -48,13 +47,13 @@ The position papers and EOIs must relate directly to the theme of the workshop t
 
 All times are within the Anywhere on Earth (AoE) time zone. 
 
-*   Submission deadline: 10. October 2022 
+*   **Submission deadline:** 10. October 2022 
 
-*   Notification date: 31. October 2022 
+*   **Notification date:** 31. October 2022 
 
-*   Final submission: 14. November 
+*   **Final submission:** 14. November 
 
-*   Workshop Day: 29. November 2022 (TBC) 
+*   **Workshop Day:** 29. November 2022 (TBC) 
 
 # Upon Acceptance 
 
@@ -62,31 +61,24 @@ Authors will be provided with a PowerPoint poster template to complete before th
 
 # Workshop Structure 
 
-09.00 - 09.30 Welcome address 
-09.30 - 09.45 Icebreaker 
-09.45 - 10.30 Speed meeting 
-10.30 - 10.45 Coffee break 
-10.45 - 11.45 Group brainstorming 
-11.45 - 12.00 Coffee break 
-12.00 - 12.45 Panel discussion 
-12.45 - 13.00 Closing 
+<!-- | Time         | head two          | three |
+|:-------------|:------------------|:------| -->
+| 09.00 - 09.30 | Welcome address     |
+| 09.30 - 09.45 | Icebreaker          |
+| 09.45 - 10.30 | Speed meeting       |
+| 10.30 - 10.45 | Coffee break        |
+| 10.45 - 11.45 | Group brainstorming |
+| 11.45 - 12.00 | Coffee break        |
+| 12.00 - 12.45 | Panel discussion    |
+| 12.45 - 13.00 | Closing             |
 
 
-_italic_, or ~~strikethrough~~.
-
+<!-- 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -102,40 +94,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
 * * *
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -165,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
